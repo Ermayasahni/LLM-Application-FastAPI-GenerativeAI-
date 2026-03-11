@@ -1,4 +1,4 @@
-# Chatbot-FastAPI-GenerativeAI
+# AI Chatbot & Salary Prediction Web App (GenerativeAI)
  
 ## 📌 Project Overview
 Full-stack Generative AI project using FastAPI for backend APIs, Streamlit for frontend UI, and MySQL for storing chat responses and predictions
